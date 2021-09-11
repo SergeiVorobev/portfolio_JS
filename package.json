@@ -28,5 +28,6 @@
   "bugs": {
     "url": "https://github.com/SergeiVorobev/portfolio_JS/issues"
   },
-  "homepage": "https://github.com/SergeiVorobev/portfolio_JS#readme"
+  "homepage": "https://github.com/SergeiVorobev/portfolio_JS#readme",
+  "devDependencies": {}
 }
