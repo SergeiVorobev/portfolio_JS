@@ -1,0 +1,25 @@
+{
+  "name": "fathermain",
+  "version": "1.0.0",
+  "description": "&lt;a href=\"https://evgcopywrite.netlify.app//\">portfolio website&lt;/a>",
+  "main": "index.js",
+  "dependencies": {
+    "adjust-sourcemap-loader": "^3.0.0",
+    "react-scripts": "^1.1.5",
+    "regex-parser": "^2.2.11",
+    "resolve-url-loader": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiVorobev/portfolio_JS.git"
+  },
+  "author": "Sergei Vorobev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeiVorobev/portfolio_JS/issues"
+  },
+  "homepage": "https://github.com/SergeiVorobev/portfolio_JS#readme"
+}

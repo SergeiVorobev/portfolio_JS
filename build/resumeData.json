@@ -15,12 +15,17 @@
       "zip": ""
     },
     "website": "https://evgenycopywrite.netlify.app/",
-    "resumedownload": "https://drive.google.com/file/d/1Rgz_MbElaKibskia7cdh--I0kGgFyj3I/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1mHDgZC-tlXyYe8CS0rnpj9KyAK3ZX53A/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
         "url": "https://www.facebook.com/profile.php?id=100055322899363",
         "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/vorobev6985",
+        "className": "fab fa-instagram"
       }
     ]
   },
