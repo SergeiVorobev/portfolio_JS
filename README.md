@@ -1,2 +1,9 @@
-# portfolio_JS
-&lt;a href="https://evgcopywrite.netlify.app//">portfolio website&lt;/a>
+# ReactJS Portfolio Template
+
+##
+
+## <a href="https://evgcopywrite.netlify.app//">portfolio website</a>
+
+## Description
+
+This is a ReactJS based personal resume website
